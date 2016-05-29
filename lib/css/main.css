@@ -86,6 +86,8 @@ div.nav span.separator {
 div.body {
   font-family: helvetica, arial, sans-serif;
   text-transform: full-width;
+  text-align: justify;
+  text-justify: inter-word;
   padding: .5em;
   padding-left: 0em;
   padding-right: 0em;
